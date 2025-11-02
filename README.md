@@ -11,7 +11,7 @@ CSS / Tailwind
 EmailJS (optional for contact form)
 
 📁 Project Setup
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/portfolio
 cd portfolio
 npm install
 npm start
